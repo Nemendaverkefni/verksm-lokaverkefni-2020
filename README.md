@@ -1,0 +1,1 @@
+# verksm-lokaverkefni-2020
