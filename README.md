@@ -10,4 +10,4 @@
 
 [hérna var ég með ágætt circuit sem er grunnur á bilnum](https://www.tinkercad.com/things/jxAaJQWFunf)
 
-[herna er grunn hönnunin af bilnum, Gulu pararnir eiga að vera dc motorarnir, og svo á eftir að gera fjærsteringu og svo er liklegt að servo motorinn virki ekki þarna.](https://www.tinkercad.com/things/0sMJmvL47SQ)
+[herna er grunn hönnunin af bilnum, Gulu hringirnir eiga að vera dc motorarnir, og svo á eftir að gera fjærsteringu og svo er liklegt að servo motorinn virki ekki þarna, svo á eftir að koma lok á allt.](https://www.tinkercad.com/things/0sMJmvL47SQ)
